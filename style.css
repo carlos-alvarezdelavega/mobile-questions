@@ -19,7 +19,7 @@ main {
     padding: 20px;
 }
 
-.button {
+a {
     display: inline-block;
     font-weight: 400px;
     text-align: center;
